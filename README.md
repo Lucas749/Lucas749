@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome to my profile
 
-<!--
-**Lucas749/Lucas749** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <I am interested in computer science and the application of AI to healthcare and financial markets
 
-Here are some ideas to get you started:
+- Working in the financial industry
+- Interests: Animal welfare, Gym, CrossFit, Coding, Investing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="left" alt="Lucas749 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Lucas749 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[youtube]: https://www.youtube.com/channel/UCYM8mlFVQxFrdX0Rd7d0aEw
+[linkedin]: https://www.linkedin.com/in/lucas-sch/
+
