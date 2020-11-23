@@ -1,9 +1,10 @@
 ### Welcome to my profile
 
-## <I am interested in computer science and the application of AI to healthcare and financial markets
+## I am interested in computer science and the application of AI to healthcare and financial markets
 
-- Working in the financial industry
-- Interests: Animal welfare, Gym, CrossFit, Coding, Investing
+- Working in the financial industry :chart:
+- Currently training for a marathon :running:
+- Interests: Animal welfare :cat2:, Gym :weight_lifting_man:, CrossFit, Coding, Investing :money_with_wings:
 
 ### Connect with me:
 
