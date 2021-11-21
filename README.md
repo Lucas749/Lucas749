@@ -2,7 +2,6 @@
 
 ## I am interested in computer science and the application of AI to healthcare and financial markets
 
-- Working in the financial industry :chart:
 - Author of four peer-reviewed publications covering topics in algorithmic trading, machine learning, data science, and quantitative finance :nerd_face:
 - Currently training for a marathon :running:
 - Interests: Animal welfare :cat2:, Gym :weight_lifting_man:, CrossFit, Coding, Investing :money_with_wings:
