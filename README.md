@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-## I am interested in computer science and the application of AI to healthcare and financial markets
+## I am interested in computer science, the application of AI to healthcare and financial markets, and crypto
 
 - PhD candidate in Computer Science at the University of Oxford with focus on machine learning for gene editing
 - Author of four peer-reviewed publications covering topics in algorithmic trading, machine learning, data science, and quantitative finance
